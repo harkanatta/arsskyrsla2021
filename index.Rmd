@@ -27,6 +27,7 @@ options(htmltools.dir.version = FALSE)
     - Vöktunarverkefnið
     - Botndýr
     - Samstarf/samstarfsverkefni
+    - Vatnalíffræði
  
  - þjónusta við almenning
     - Slösuð villt dýr
@@ -98,3 +99,25 @@ background-size: contain
 
 ### Jarðvegssnið
 ---
+
+class: inverse, middle, center
+background-image: url(myndir/IMG_20210715_153840_282.jpg)
+background-size: fill
+
+### ...hefur verið í hlutastarfi hjá NNV í tengslum við fræðsluverkefni á vegum NORA-sjóðsins og verkefni sem var á vegum loftlagssjóðs/Rannís.
+
+---
+
+class: inverse, middle, center
+background-image: url(myndir/BJ.jpg)
+background-size: fill
+
+### Var kosinn á þing og lét af störfum á árinu
+
+---
+
+class: inverse, middle, center
+background-image: url(myndir/CC.jpg)
+background-size: fill
+
+### ...hefur verið í hlutastarfi hjá NNV í tengslum við fræðsluverkefni á vegum NORA-sjóðsins og verkefni sem var á vegum loftlagssjóðs/Rannís.
