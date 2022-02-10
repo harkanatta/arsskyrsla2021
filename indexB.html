@@ -4,7 +4,7 @@
     <title>xaringan template for Duke University</title>
     <meta charset="utf-8" />
     <meta name="author" content="John Little" />
-    <meta name="date" content="2022-02-08" />
+    <meta name="date" content="2022-02-09" />
     <script src="libs/header-attrs/header-attrs.js"></script>
     <link href="libs/remark-css/default.css" rel="stylesheet" />
     <link href="libs/remark-css/default-fonts.css" rel="stylesheet" />
@@ -38,24 +38,38 @@ class: center, middle, inverse, title-slide
 # xaringan template for Duke University
 ## Combined CSS Styles
 ### John Little
-### 2022-02-08
+### 2022-02-09
 
 ---
 
 
-class: center, middle
+background-image: url(https://www.nnv.is/static/themes/2016/images/logo.png)
 
-# xaringan -- dukeslides
+ - Inngangur
+ 
+ - Rannsóknir
+    - örplast
+    - þari
+    - jarðfræði
+    - fuglar
+    - plöntur
+    - Vöktunarverkefnið
+    - Botndýr
+    - Samstarf/samstarfsverkefni
+    - Vatnalíffræði
+ 
+ - þjónusta við almenning
+    - Slösuð villt dýr
+    - greiningar
+    - Kennsla
+ 
+ - fræðsla
+    - Fjölmiðlar
+     
 
-### /ʃæ.'riŋ.ɡæn/
+???
 
-.justify-left[
-This [`dukeslides`](https://johnlittle.info/dukeslides/) example slide deck extends the excellent collaborative work of the xaringan and Remark.js slide tools.  With this template, slide authors can compose xaringan slides via [R Markdown](https://rmarkdown.rstudio.com/) and present with [Duke University branding](https://styleguide.duke.edu/color-palette/).
-
-[Yihui Xie](https://yihui.name/) provides wonderful [technical documentation](https://slides.yihui.name/xaringan/) and a [wiki](https://github.com/yihui/xaringan/wiki) for the [xaringan package](https://github.com/yihui/xaringan). Some of his documentation is repeated here.  
-
-**My goal** is to present **example slides** with example **R Markdown** and xaringan **syntax** to demonstrate presentation styles. 
-]
+Image credit: [Wikimedia Commons](myndir/geislar.png)
 
 
 ---
@@ -326,7 +340,7 @@ class: duke-green
 - three
 
 ---
-background-image: url(http://www.publicdomainpictures.net/pictures/170000/velka/hand-holding-old-keys-1462981136Ul1.jpg)
+background-image: url(myndir/kongasvarmi.png)
 background-size: contain
 
 ## hygge-duke Two Column
@@ -528,13 +542,12 @@ output:
 If you want to contribute a theme to **xaringan**, please read [this blog post](https://yihui.name/en/2017/10/xaringan-themes).
 
 ---
-class: duke-orange
-# Figure Captions
+class: duke-black
 
 &lt;figure&gt;
-  &lt;img src="https://c1.staticflickr.com/5/4095/4735322270_29f2a170bb_n.jpg"&gt;
+  &lt;img src="myndir/stufa_og_gullspor.png"&gt;
     &lt;figcaption&gt; Image Credit:  
-      &lt;a href="https://www.flickr.com/photos/wordridden/4735322270/in/photolist-8drLkq-646eKc-nG7uhG-quFpgc-4ucjnx-fe82eN-dYBniL-dYvFA4-9Cf4eR-6EGeNs-6HTKQj-65AZMK-fWBnJR-7xRE6a-6hXAvM-piV5xr-89EMot-6Ea5Ks-dPGTJM-dxKznu-6PLmRW-3YRkU8-5iq1tD-fmHnyr-iiLdJL-e5r9bR-5fAPht-8arifu-oBFJHP-fHytwE-7m3YaS-vKsn9-cMyqho-cNg979-gMG6Ng-6ox1FA-2MHsz8-c9LomS-bq7wvo-nt5ipG-rZ5GFD-duEHPx-pgTp2N-8mzmRJ-67XBkZ-ewrn88-b39pr2-6vRoKp-6mZfyi-6DxVuk"&gt;Salad Onions&lt;/a&gt; by Jessica Spengler 
+      &lt;a href="myndir/stufa_og_gullspor.png"&gt;Salad Onions&lt;/a&gt; by Jessica Spengler 
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -554,13 +567,11 @@ class: duke-orange
 ---
 exclude: false
 class: center, middle
-background-image: url(https://blogs.library.duke.edu/magazine/files/2010/12/duke-university-libraries-logo.jpg)
-&lt;!-- https://commons.wikimedia.org/wiki/File:Duke_University_logo.svg --&gt;
-&lt;!-- https://blogs.library.duke.edu/magazine/files/2010/12/duke-university-libraries-logo.jpg --&gt;
-&lt;!-- http://library.duke.edu/data/sites/default/files/datagis/images/data_gis_logo.png --&gt;
-
-&lt;!-- HTML comment can go here  --&gt;
-  
+background-image: url(myndir/stufa_og_gullspor.png)
+background-size: contain
+.pull-left[
+.content-box-blue[I feel blue]
+]  
 ???
 
 Presenter Notes go here
@@ -763,8 +774,8 @@ library(leaflet)
 leaflet() %&gt;% addTiles() %&gt;% setView(-93.65, 42.0285, zoom = 17)
 ```
 
-<div id="htmlwidget-19c80443c264a006f3a5" style="width:100%;height:432px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-19c80443c264a006f3a5">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]}],"setView":[[42.0285,-93.65],17,[]]},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-517f68658952243308f7" style="width:100%;height:432px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-517f68658952243308f7">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]}],"setView":[[42.0285,-93.65],17,[]]},"evals":[],"jsHooks":[]}</script>
 
 ---
 
@@ -776,8 +787,8 @@ DT::datatable(
 )
 ```
 
-<div id="htmlwidget-ed8d5b949d453fc2f18e" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-ed8d5b949d453fc2f18e">{"x":{"filter":"none","vertical":false,"fillContainer":false,"data":[["1","2","3","4","5","6","7","8","9","10"],[5.1,4.9,4.7,4.6,5,5.4,4.6,5,4.4,4.9],[3.5,3,3.2,3.1,3.6,3.9,3.4,3.4,2.9,3.1],[1.4,1.4,1.3,1.5,1.4,1.7,1.4,1.5,1.4,1.5],[0.2,0.2,0.2,0.2,0.2,0.4,0.3,0.2,0.2,0.1],["setosa","setosa","setosa","setosa","setosa","setosa","setosa","setosa","setosa","setosa"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>Sepal.Length<\/th>\n      <th>Sepal.Width<\/th>\n      <th>Petal.Length<\/th>\n      <th>Petal.Width<\/th>\n      <th>Species<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":8,"columnDefs":[{"className":"dt-right","targets":[1,2,3,4]},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"lengthMenu":[8,10,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-37a2e5737ff155da4b67" style="width:100%;height:auto;" class="datatables html-widget"></div>
+<script type="application/json" data-for="htmlwidget-37a2e5737ff155da4b67">{"x":{"filter":"none","vertical":false,"fillContainer":false,"data":[["1","2","3","4","5","6","7","8","9","10"],[5.1,4.9,4.7,4.6,5,5.4,4.6,5,4.4,4.9],[3.5,3,3.2,3.1,3.6,3.9,3.4,3.4,2.9,3.1],[1.4,1.4,1.3,1.5,1.4,1.7,1.4,1.5,1.4,1.5],[0.2,0.2,0.2,0.2,0.2,0.4,0.3,0.2,0.2,0.1],["setosa","setosa","setosa","setosa","setosa","setosa","setosa","setosa","setosa","setosa"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>Sepal.Length<\/th>\n      <th>Sepal.Width<\/th>\n      <th>Petal.Length<\/th>\n      <th>Petal.Width<\/th>\n      <th>Species<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":8,"columnDefs":[{"className":"dt-right","targets":[1,2,3,4]},{"orderable":false,"targets":0}],"order":[],"autoWidth":false,"orderClasses":false,"lengthMenu":[8,10,25,50,100]}},"evals":[],"jsHooks":[]}</script>
 
 ---
 

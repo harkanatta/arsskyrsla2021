@@ -22,19 +22,33 @@ output:
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
-class: center, middle
+background-image: url(https://www.nnv.is/static/themes/2016/images/logo.png)
 
-# xaringan -- dukeslides
+ - Inngangur
+ 
+ - Rannsóknir
+    - örplast
+    - þari
+    - jarðfræði
+    - fuglar
+    - plöntur
+    - Vöktunarverkefnið
+    - Botndýr
+    - Samstarf/samstarfsverkefni
+    - Vatnalíffræði
+ 
+ - þjónusta við almenning
+    - Slösuð villt dýr
+    - greiningar
+    - Kennsla
+ 
+ - fræðsla
+    - Fjölmiðlar
+     
 
-### /ʃæ.'riŋ.ɡæn/
+???
 
-.justify-left[
-This [`dukeslides`](https://johnlittle.info/dukeslides/) example slide deck extends the excellent collaborative work of the xaringan and Remark.js slide tools.  With this template, slide authors can compose xaringan slides via [R Markdown](https://rmarkdown.rstudio.com/) and present with [Duke University branding](https://styleguide.duke.edu/color-palette/).
-
-[Yihui Xie](https://yihui.name/) provides wonderful [technical documentation](https://slides.yihui.name/xaringan/) and a [wiki](https://github.com/yihui/xaringan/wiki) for the [xaringan package](https://github.com/yihui/xaringan). Some of his documentation is repeated here.  
-
-**My goal** is to present **example slides** with example **R Markdown** and xaringan **syntax** to demonstrate presentation styles. 
-]
+Image credit: [Wikimedia Commons](myndir/geislar.png)
 
 
 ---
@@ -304,7 +318,7 @@ class: duke-green
 - three
 
 ---
-background-image: url(http://www.publicdomainpictures.net/pictures/170000/velka/hand-holding-old-keys-1462981136Ul1.jpg)
+background-image: url(myndir/kongasvarmi.png)
 background-size: contain
 
 ## hygge-duke Two Column
@@ -494,13 +508,12 @@ output:
 If you want to contribute a theme to **xaringan**, please read [this blog post](https://yihui.name/en/2017/10/xaringan-themes).
 
 ---
-class: duke-orange
-# Figure Captions
+class: duke-black
 
 <figure>
-  <img src="https://c1.staticflickr.com/5/4095/4735322270_29f2a170bb_n.jpg">
+  <img src="myndir/stufa_og_gullspor.png">
     <figcaption> Image Credit:  
-      <a href="https://www.flickr.com/photos/wordridden/4735322270/in/photolist-8drLkq-646eKc-nG7uhG-quFpgc-4ucjnx-fe82eN-dYBniL-dYvFA4-9Cf4eR-6EGeNs-6HTKQj-65AZMK-fWBnJR-7xRE6a-6hXAvM-piV5xr-89EMot-6Ea5Ks-dPGTJM-dxKznu-6PLmRW-3YRkU8-5iq1tD-fmHnyr-iiLdJL-e5r9bR-5fAPht-8arifu-oBFJHP-fHytwE-7m3YaS-vKsn9-cMyqho-cNg979-gMG6Ng-6ox1FA-2MHsz8-c9LomS-bq7wvo-nt5ipG-rZ5GFD-duEHPx-pgTp2N-8mzmRJ-67XBkZ-ewrn88-b39pr2-6vRoKp-6mZfyi-6DxVuk">Salad Onions</a> by Jessica Spengler 
+      <a href="myndir/stufa_og_gullspor.png">Salad Onions</a> by Jessica Spengler 
     </figcaption>
 </figure>
 
@@ -520,13 +533,11 @@ class: duke-orange
 ---
 exclude: false
 class: center, middle
-background-image: url(https://blogs.library.duke.edu/magazine/files/2010/12/duke-university-libraries-logo.jpg)
-<!-- https://commons.wikimedia.org/wiki/File:Duke_University_logo.svg -->
-<!-- https://blogs.library.duke.edu/magazine/files/2010/12/duke-university-libraries-logo.jpg -->
-<!-- http://library.duke.edu/data/sites/default/files/datagis/images/data_gis_logo.png -->
-
-<!-- HTML comment can go here  -->
-  
+background-image: url(myndir/stufa_og_gullspor.png)
+background-size: contain
+.pull-left[
+.content-box-blue[I feel blue]
+]  
 ???
 
 Presenter Notes go here
