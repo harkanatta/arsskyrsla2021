@@ -345,32 +345,24 @@ layout:false
 class: split-40 bg-white with-thick-border
 background-size: cover
 
-.row[
-.split-two.border-white[
-.column[
-Undanfarin ár hafa steingervingar verið athugaðir í Bakkabrúnum. Þar finnast vel varðveitt blaðför meðal annars af birki og elri. Steingervingarnir eru frá hlýskeiði ísaldar.
-]
+.row[.large.vmiddle[
+.Large[Mjög fallegt stuðlaberg] finnst á nokkrum stöðum. Þekktustu staðirnir eru Hofsós, Kálfshamarsvík og Borgarvirki. Færri vita af geisifallegu stuðlabergi í **Nesbjörgum í Vesturhópi** eða **Káraborg á Vatnsnesi**, eins má nefna merkilegt stuðlaberg í stórri námu hjá Friðmundarvötnum á Auðkúluheiði við leiðina um Kjalveg. Eða merkilegt stuðlaberg sem að hafnargarðurinn á Skagaströnd er byggður utan í.
+]]
 
-.column[
-.large[Steinar og steingervingar:] Nýr fundarstaður steingervinga frá tertíertímanum (ca. 6-8 milljón ár) fannst í afar fallegu gili sem nefnist Hrútagil og er í Vesturdal í Skagafirði, enn sem komið er hefur aðallega fundist þar surtarbrandur en hann er kolaðarleifar milljóna ára gamalla trjá einnig er að finna þar fíngert set með öðrum plöntuleifum sem mjög áhugavert verður að skoða nánar. Ýmsar fágætar tegundir steinda og kristalla fundust einnig í Hegranesi og á Vatnsnesi og verður þeirra getið nánar eftir frekari greiningar. Töluvert hefur einnig fundist af málmsteindum og verður mjög áhugavert að fá frekari greiningar á þeim.
-
-]
-
-]
-]
 
 .row[
   .split-three.with-thick-border[
   .column[.nopadding[
 
   .img-fill[![](myndir/breyttar/fridmundarvotn.jpeg)]
-
+  .justify-right.footer-note[**Náma við Friðmundarvötn**]
 
   ]]
 
 .column.bg-white[.nopadding[
 
  .img-fill[![](myndir/breyttar/Kari.jpeg)]
+.footer-note.white[Káraborg]
 
   ]
 
@@ -378,7 +370,7 @@ Undanfarin ár hafa steingervingar verið athugaðir í Bakkabrúnum. Þar finna
   .column.bg-white[.nopadding[
 
   .img-fill[![](myndir/breyttar/hofnin.jpeg)]
-
+.footer-note.white[Hafnargarðurinn á Skagaströnd]
   ]]
   
    .column.bg-white[.nopadding[
@@ -424,7 +416,7 @@ background-size: cover
 
 .row[
 
-.yellow.font2[Hið smásæja er einnig í stöðugri skoðun en Náttúrustofan tekur þátt í greiningum á botndýrum í sjó og lítillega fengist við greiningar á smádýrum úr vötnum]
+.yellow.font2[Hið smásæja er einnig í stöðugri skoðun en náttúrustofan tekur þátt í greiningum á botndýrum í sjó og lítillega fengist við greiningar á smádýrum úr vötnum]
 
 Myndaskölun 5333:5400
 
@@ -571,7 +563,7 @@ Chauvat, Aquino and Granquist. Analyzing visitors' values and perceptions to inf
 
 ---
 layout:false
-class: split-50 bg-white with-border bottom
+class: split-40 bg-white with-border bottom
 background-image: url(myndir/ashildur.JPEG)
 background-size: cover
 
@@ -586,14 +578,55 @@ background-size: cover
   .column.bg-white[.nopadding[
 
   .img-fill[![](myndir/2020.png)]
+  
+  ## .footer-note.font_large[2020]
 
   ]]
 
   .column.bg-white[.nopadding[
 
   .img-fill[![](myndir/2021.png)]
+  
+  ## .footer-note.font_large[2021]
 
   ]]
 ]]
 
 ---
+
+class: split-four
+background-image: url(myndir/Drangey_sky.JPG)
+background-size: contain
+
+.column.bg-main1[.content.vmiddle.center.nopadding[
+.footnote.white[Dróni var keyptur í tengslum við Vöktun náttúruverndarsvæða árið 2020 og hefur verið notaður við kortlagningu og ýmislegt fleira]
+  .img-fill[![](myndir/droni.JPEG)]
+]]
+.column.bg-main2[.content[
+
+]]
+.column.bg-main3[.content.vmiddle.center[
+
+]]
+.column.bg-main4[.content[
+.footnote[Drangey]
+]]
+---
+
+class: split-three white
+
+.column[.content.nopadding[
+    
+    .img-fill[![](myndir/breyttar/gullspora.png)]
+    
+  ]]
+  
+.column.bg-blue[.content[
+  content of second column
+]]
+.column.bg-green[.content[
+  content of third column
+]]
+
+---
+
