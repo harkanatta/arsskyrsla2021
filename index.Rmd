@@ -289,8 +289,60 @@ Elínór. Fullorðinn fálkakarl fannst slasaður í Hrútafirði. Hann var fó�
 ]]
 
 ---
+
+
 layout:false
-class: split-50 bg-white with-thick-border
+class: split-60 bg-white with-thick-border, middle
+
+
+.row[
+  .split-three.with-thick-border[
+  .column[.nopadding[
+.footnote.large[Blaðfar, birki. Bakkabrúnir í Víðidal]
+  .img-fill[![](myndir/breyttar/bakkabrunir.jpg)]
+
+
+  ]]
+
+.column.bg-white[.nopadding[
+.footnote.large[Surtarbrandur úr Hrútagili í Vesturdal]
+ .img-fill[![](myndir/breyttar/surtarbrandur.JPEG)]
+
+  ]
+
+  ]
+  .column.bg-white[.nopadding[
+.footnote.white.large[Geislasteinn fundinn í Hegranesi]
+  .img-fill[![](myndir/breyttar/geislar.png)]
+
+  ]]
+]]
+
+.row[
+  .split-two.border-white[
+  .column[
+  .large[
+
+.large[Steinar og steingervingar:] Nýr fundarstaður steingervinga frá tertíertímanum (ca. 6-8 milljón ár) fannst í afar fallegu gili sem nefnist Hrútagil sem er í Vesturdal í Skagafirði. Enn sem komið er hefur aðallega fundist þar surtarbrandur en hann er kolaðarleifar milljóna ára gamalla trjá einnig er að finna þar fíngert set með öðrum plöntuleifum sem mjög áhugavert verður að skoða nánar. 
+
+]
+]
+
+.column[
+.large[
+Ýmsar fágætar tegundir steinda og kristalla fundust á Vatnsnesi og verður þeirra getið nánar eftir frekari greiningar. Töluvert hefur einnig fundist af málmsteindum og verður mjög áhugavert að fá frekari greiningar á þeim. Fágæt tegund geislasteins fundin í Hegranesi mjög óalgengt er að geislarnir séu gulir.
+
+]
+]
+
+]]
+
+
+
+---
+
+layout:false
+class: split-40 bg-white with-thick-border
 background-size: cover
 
 .row[
@@ -308,24 +360,24 @@ Undanfarin ár hafa steingervingar verið athugaðir í Bakkabrúnum. Þar finna
 ]
 
 .row[
-  .split-four.with-thick-border[
+  .split-three.with-thick-border[
   .column[.nopadding[
 
-  .img-fill[![](myndir/studlaberg.jpeg)]
+  .img-fill[![](myndir/breyttar/fridmundarvotn.jpeg)]
 
 
   ]]
 
 .column.bg-white[.nopadding[
 
- .img-fill[![](myndir/studlar.jpeg)]
+ .img-fill[![](myndir/breyttar/Kari.jpeg)]
 
   ]
 
   ]
   .column.bg-white[.nopadding[
 
-  .img-fill[![](myndir/geislar.png)]
+  .img-fill[![](myndir/breyttar/hofnin.jpeg)]
 
   ]]
   
@@ -342,6 +394,7 @@ Undanfarin ár hafa steingervingar verið athugaðir í Bakkabrúnum. Þar finna
 ---
 layout:false
 class: split-60 bg-white with-thick-border
+background-image: url(myndir/ashildur.JPEG)
 background-size: cover
 
 
@@ -371,7 +424,7 @@ background-size: cover
 
 .row[
 
-Hið smásæja er einnig í stöðugri skoðun en Náttúrustofan tekur þátt í greiningum á botndýrum
+.yellow.font2[Hið smásæja er einnig í stöðugri skoðun en Náttúrustofan tekur þátt í greiningum á botndýrum í sjó og lítillega fengist við greiningar á smádýrum úr vötnum]
 
 Myndaskölun 5333:5400
 
@@ -452,16 +505,6 @@ background-size: contain
 ---
 
 
-
-class: inverse
-background-image: url(myndir/bakkabrunir.jpg)
-background-size: contain
-
-### Bakkabrúnir steingervingar
-.font3[Undanfarin ár hafa steingervingar verið athugaðir í Bakkabrúnum. Þar finnast vel varðveitt blaðför meðal annars af birki og elri. Steingervingarnir eru frá hlýskeiði ísaldar.
-]
----
-
 class: inverse, middle, center
 background-image: url(myndir/Skotta_jardvegssnid.jpg)
 background-size: contain
@@ -490,12 +533,29 @@ Gargönd nokkuð sást af gargöndum í Skagafirði en þar verpa fáeinir tugir
 
 Nýbúum svartþresti, glókolli og krossnef heldur hægt og bítandi áfram að fjölga sem og öðrum fuglum sem njóta góðs af trjárækt og vaxandi skógum. Starar hafa einnig náð nokkuð öruggri fótfestu í bæjum og sveitum en þeir eru að miklu leyti farfuglar sem sennilega far til Suðvesturlands til vetrardvalar en snú aftur í mars lok.
 
-Valtýr
-Fyrirlestur á ráðstefnu
+Dróninn
 
-Einar Fimm fyrirlestra
-Laugarbakki
-um náttúruvernd
+
+Steindin
+
+Skollaber eru frekar sjaldgæf hér á landi og vaxa innan um lyng. Þau finnast á fáeinum stöðum við Hrútafjörð og á Skaga en eru nokkuð algeng á Tröllaskaga Skagafjarðarmegin.
+
+---
+class: inverse, middle, center
+
+# Mjög fallegt stuðlaberg finnst á nokkrum stöðum. Þekktustu staðirnir eru Hofsós, Kálfshamarsvík og Borgarvirki. Færri vita af geisifallegu stuðlabergi í Nesbjörgum í Vesturhópi eða Káraborg á Vatnsnesi, eins má nefna merkilegt stuðlaberg í stórri námu hjá Friðmundarvötnum á Auðkúluheiði við leiðina um Kjalveg. Eða merkilegt stuðlaberg sem að hafnargarðurinn á Skagaströnd er byggður utan í.
+
+---
+class: middle, center
+
+Erindi:
+.large[
+
+  - International Symposium on Plastics in the Arctic and Sub-Arctic Region on March 2-4 and 8-9, 2021
+  - Ársfundur NÍ og náttúrustofa 19. október. 2021 að Laugarbakka í Miðfirði
+  - um náttúruvernd
+  
+  
 Fuglar á Skagaströnd
 Ráðstefna (meðhöfundur)
 
@@ -504,3 +564,36 @@ Conferences and talks
 Chauvat & Aquino. Using Place-based education projects to engage youth in Arctic nature.
 2. 6th of May 2021: Polar Early Career Conference
 Chauvat, Aquino and Granquist. Analyzing visitors' values and perceptions to inform management at seal watching sites in northwestern Iceland.
+
+
+]
+
+
+---
+layout:false
+class: split-50 bg-white with-border bottom
+background-image: url(myndir/ashildur.JPEG)
+background-size: cover
+
+.row[
+.font2[Farið var af stað með vöktunarverkefni sem að nefnist **Vöktun náttúruverndarsvæða** árið 2020. Náttúrustofan hefur tekið drjúgan þátt í því og safnað gríðarmikið af upplýsingum um nátturfar þessara svæða ásamt því að gera ástandsmat á stöðunum með tilliti til margvíslegra ógna meðal annars ágangs ferðamanna.
+]
+]
+
+.row[
+  .split-two.with-border[
+  
+  .column.bg-white[.nopadding[
+
+  .img-fill[![](myndir/2020.png)]
+
+  ]]
+
+  .column.bg-white[.nopadding[
+
+  .img-fill[![](myndir/2021.png)]
+
+  ]]
+]]
+
+---
