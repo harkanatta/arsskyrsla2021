@@ -169,8 +169,6 @@ Valtýr Sigurðsson, líffræðingur, er í hálfu starfi hjá stofunni á móti
 .img-fill[![](myndir/valtyrB.JPEG)]
 
 
-
-
 ]]
 
 
@@ -197,51 +195,6 @@ Cecile Chauvat, verkfræðingur í fjarskiptatækni (MSc.). haf- og strandsvæð
 
 
 ---
-
-
-layout:false
-class: split-50 bg-white with-border
-background-image: url(myndir/ashildur.JPEG)
-background-size: cover
-
-.row[
-
-
-
-]
-
-.row[
-  .split-three.with-border[
-  .column.bg-white[.content[
-  .font2[Athuganir]
-  
-Náttúrustofan og BioPol hafa haldið áfram athugunum á örplasti í sjó við Skagaströnd. Örplastagnirnar voru greindar hjá nýsköpunarmiðstöðinni með Raman-smásjá.
-
-
-Sett var upp vefsíða fyrir verkefnið [„Youth for Arctic Nature“](https://www.arcticnature.org/) sem er unnið í samstarfi við Húnaklúbbinn á Hvammstanga og styrkt af sjóðnum NORA og loftslagssjóðnum.
-
-
-Örplast og Yann, þangrannsóknir hafa einnig nýst til að bæta við þekkingu bjargfugla, fundum fyrsta staðfesta toppskarfshreiður á Norðurlandi. 
-
-
-    ]]
-
-.column.bg-white[.content[
-
-.large[Steinar og steingervingar:] Nýr fundarstaður steingervinga frá tertíertímanum (ca. 6-8 milljón ár) fannst í afar fallegu gili sem nefnist Hrútagil og er í Vesturdal í Skagafirði, enn sem komið er hefur aðallega fundist þar surtarbrandur en hann er kolaðarleifar milljóna ára gamalla trjá einnig er að finna þar fíngert set með öðrum plöntuleifum sem mjög áhugavert verður að skoða nánar. Ýmsar fágætar tegundir steinda og kristalla fundust einnig í Hegranesi og á Vatnsnesi og verður þeirra getið nánar eftir frekari greiningar. Töluvert hefur einnig fundist af málmsteindum og verður mjög áhugavert að fá frekari greiningar á þeim.
-
-  ]
-
-  ]
-  .column.bg-white[.content[
-  .large[Sjaldgæfar plöntur og slæðingar] voru víða skráðar samhliða öðrum rannsóknum, merkilegast má telja fágætar jurtir sem eru að berast víða inn um hálendið með erlendum ferðamönnum. Má hér helst geta fagurfífils, regfangs afbrigðis og sólfylgju sem nú eru á Hveravöllum. Hvað áhugaverðasta plantan sem fannst á láglendi var stúfa en stúfan hefur annars einungis vaxtarstaði á Suðurlandi.
-
-.large[Skordýr] fáein merkileg skordýr fundust og má þar helst geta kóngasvarma, aðmírálsfiðrildis og gammayglu. Einnig fannst tegund af stórvaxinni skortítu í varningi sem kom erlendis frá.
-
-  ]]
-]]
-
----
 layout:false
 class: split-40 bg-white with-thick-border middle
 background-size: cover
@@ -251,7 +204,7 @@ background-size: cover
   .column[
   .large[
 
-Starfsmenn náttúrustofunnar tóku þátt í **arnarmerkingum** með starfsmönnum Náttúrufræðistofnun Íslands. Alls voru merktir arnarungar á 4 hreiðrum á okkar svæði. Ernir sáust víða og má teljast merkilegt hvað þeir eru tíðir á Arnarvatnsheiði og á Miðhálendinu t.d. Ásbjarnarvötn í um 700 mys.
+Starfsmenn náttúrustofunnar tóku þátt í **arnarmerkingum** með starfsmönnum Náttúrufræðistofnunar Íslands. Alls voru merktir arnarungar á 4 hreiðrum á okkar svæði. Ernir sáust víða og má teljast merkilegt hvað þeir eru tíðir á Arnarvatnsheiði og á Miðhálendinu t.d. Ásbjarnarvötn í um 700 mys.
 
 ]
 ]
@@ -259,7 +212,7 @@ Starfsmenn náttúrustofunnar tóku þátt í **arnarmerkingum** með starfsmön
 .column[
 .large[
 
-Elínór. Fullorðinn fálkakarl fannst slasaður í Hrútafirði. Hann var fóðraður og hjúkrað í nokkrar vikur og komið til heilsu. Hann var svo fluttur í Húsdýragarðinn. 
+Fullorðinn fálkakarl fannst slasaður í Hrútafirði. Hann var fóðraður og hjúkrað í nokkrar vikur og komið til heilsu. Hann var svo fluttur í Húsdýragarðinn. 
 ]
 ]
 
@@ -270,21 +223,21 @@ Elínór. Fullorðinn fálkakarl fannst slasaður í Hrútafirði. Hann var fó�
   .column[.nopadding[
 
   .img-fill[![](myndir/arnarungi.jpg)]
-
+.footer_note[lítill]
 
   ]]
 
 .column.bg-white[.nopadding[
 
- .img-fill[![](myndir/haforn.jpeg)]
-
+ .img-fill[![](myndir/haforn.JPG)] 
+ .footer_note.large[Haförn verður fyrir árás frá svartbaki á miðhálendinu.]
   ]
 
   ]
   .column.bg-white[.nopadding[
 
   .img-fill[![](myndir/falki.PNG)]
-
+.footnote.large[Blaðfar, birki. Bakkabrúnir í Víðidal]
   ]]
 ]]
 
@@ -355,7 +308,7 @@ background-size: cover
   .column[.nopadding[
 
   .img-fill[![](myndir/breyttar/fridmundarvotn.jpeg)]
-  .justify-right.footer-note[**Náma við Friðmundarvötn**]
+  .justify-right.footer-note[**Stuðlaberg við Friðmundarvötn**]
 
   ]]
 
@@ -424,61 +377,6 @@ Myndaskölun 5333:5400
 ]
 
 ---
-class: top split-three
-background-image: url(myndir/DAPHNIA_PULEX_STUTTHALAFLÓ.JPG)
-background-size: cover
-
-.column[.content[
-
-## .yellow[Fuglar] 
-.Large[.yellow[Örplast]]
-
-.yellow[BioPol og Náttúrustofan hafa unnið að rannsóknum á örplasti í Húnaflóa. Í undirbúningi er grein um niðurstöður þeirra]
-
-.Large[.yellow[Þari]]
-
-.yellow[BioPol og Náttúrustofan hafa unnið að rannsóknum
-á örplasti í Húnaflóa. Í undirbúningi er grein um niðurstöður þeirra]
-
-.Large[.yellow[Botndýr]]
-
-.yellow[BioPol og Náttúrustofan hafa unnið að rannsóknum
-á örplasti í Húnaflóa. Í undirbúningi er grein um niðurstöður þeirra]
- 
-  ]]
-.column[.content[
-
-## .yellow[Sjór] 
-.Large[.yellow[Örplast]]
-
-.Large[.yellow[Þari]]
-
-.yellow[BioPol og Náttúrustofan hafa unnið að rannsóknum
-á örplasti í Húnaflóa. Í undirbúningi er grein um niðurstöður þeirra]
-
-.Large[.yellow[Botndýr]]
-
-]]
-.column[.content[
-
-## .yellow[Vöktun] 
-.Large[.yellow[Örplast]]
-
-.yellow[BioPol og Náttúrustofan hafa unnið að rannsóknum á örplasti í Húnaflóa. Í undirbúningi er grein um niðurstöður þeirra]
-
-.Large[.yellow[Þari]]
-
-.Large[.yellow[Botndýr]]
-
-..yellow[rósastari þessi fágæti flækingur frá Steppum Kasakstan kom á Hvammstanga í lok ágúst og hélt til í garði fuglavina við gotatlæti þar til hann var drepinn af ketti rétt fyrir jól.  Þetta er í þriðja sinn sem þessi sjaldgæfa fuglategund finnst  á Norðurlandi - Vestra, skeiðönd skeiðendur fundust að þessu sinni í Glaumbæjarey í Skagafirði og Miðfirði,  Hrafnsönd, fáeinar hrafnsendur hafa sést í Skagafirði undanfarin ár við Miklavatn og ósa Héraðsvtnanna eins sjást þær við Friðmundarvötn á hálendinu.  Líiklega eru þær enn fágætir varpfuglar á svæðinu., Æðarkóngur sást um vorið við Blönduós Söngþröstur,hettusöngvari, landsvala, og flekkugrípur sá síðast nefndi er fremur fátíður flækingur hérlendis.  Flekkugrípar verpa víða á Norðurlöndunum..  Flekkugrípurinn var sá fyrsti sem sést á Norðurlandi.  Snæugla náttúrustofan fékk fréttir af einn snæuglu á hefðbundnum slóðum við gróðurvin á auðnum Miðhálendisins.]
-
-
-
-]]
-
-
----
-
 class: inverse, bottom, center
 background-image: url(myndir/kongasvarmi.png)
 background-size: contain
@@ -486,16 +384,6 @@ background-size: contain
 Þessi sjaldgæfi kóngasvarmi fannst á Hvammstanga. Hann er með allra stærstu næturfiðrildum sem hér finnast, með 8 til 10 cm vænghaf og er eitt stærsta skordýr Evrópu. Þetta er sjaldgæfur flækur sem berst með síðsumarvindum. Náttúrustofan tekur við ábendingum og hjálpar til við greiningar.
 
 ---
-
-class: inverse, bottom, center
-background-image: url(myndir/stufa_og_gullspor.png)
-background-size: contain
-
-.font3[Fyrsta skipti á Norðurlandi fágæt jurt sem heitir stúfa (Succisa pratensis) kíkja á útbreiðslukort NÍ. Gullsporablóm (Linaria vulgaris). Finnst einum stað á Holtavörðuheiði og einum stað í Refasveit. Fyrir utan þessa nýju fundarstaði á Norðurlandi vestra þá finnst gullsporablóm aðeins á tveimur öðrum stöðum á landinu. Slæðingar: eru erlendar innfluttar plöntutegundir sem berast óvart með manninum eða innflutningi. Þetta eru plöntur sem geta náð hér fótfestu.]
-
-
----
-
 
 class: inverse, middle, center
 background-image: url(myndir/Skotta_jardvegssnid.jpg)
@@ -508,57 +396,41 @@ Náttúrustofan hefur fengið til liðs við sig jarðfræðinga frá Háskóla 
 class: inverse, middle, center
 background-size: contain
 
-Farið var af stað með vöktunarverkefni sem að nefnist Vöktun náttúruverndarsvæða árið 2020. Náttúrustofan hefur tekið drjúgan þátt í þeví og safnað gríarmikið af upp um nátturfar þessara svæða ásamt því að gera ástandsmat á stöðunum m.t.t. til margvíslegra ógna  m.a. ágangs ferðamanna.
 
-Sjaldgæfir gestir og áhugaverðar athuganir úr fuglalífinu
-
-Rósastari, þessi fágæti flækingur frá Steppum Kasakstan kom á Hvammstanga í lok ágúst og hélt til í garði fuglavina við gott atlæti þar til hann var drepinn af ketti rétt fyrir jól. Þetta er í þriðja sinn sem þessi sjaldgæfa fuglategund finnst á Norðurlandi vestra. 
-
-
-Skeiðönd: Skeiðendur fundust að þessu sinni í Glaumbæjarey í Skagafirði og Miðfirði, Hrafnsönd, fáeinar hrafnsendur hafa sést í Skagafirði undanfarin ár við Miklavatn og ósa Héraðsvtnanna eins sjást þær við Friðmundarvötn á hálendinu. Líklega eru þær enn fágætir varpfuglar á svæðinu.
-
-Æðarkóngur sást um vorið við Blönduós Söngþröstur,hettusöngvari, landsvala, og flekkugrípur sá síðast nefndi er fremur fátíður flækingur hérlendis. Flekkugrípar verpa víða á Norðurlöndunum. Flekkugrípurinn var sá fyrsti sem sést hefur á Norðurlandi. Snæugla náttúrustofan fékk fréttir af einn snæuglu á hefðbundnum slóðum við gróðurvin á auðnum Miðhálendisins.
-
-Gargönd nokkuð sást af gargöndum í Skagafirði en þar verpa fáeinir tugir para þessarar annars fágætu andategundar sem annars er aðallega bundin við Mývatn og Laxá ásamt Aðaldal. Grafendur finnast nokkuð víða um héraðið en eru þó mjög fáliðaðar þó nóg sé kjörlendið í Eylendi Skagafjarðar og votlendi í Vatnsdal.
-
- fálki minna um varp en undanfarin ár enda er fremur lítið af rjúpum sem eru mikilvægasta fæða fálkans. 
-
-Nýbúum svartþresti, glókolli og krossnef heldur hægt og bítandi áfram að fjölga sem og öðrum fuglum sem njóta góðs af trjárækt og vaxandi skógum. Starar hafa einnig náð nokkuð öruggri fótfestu í bæjum og sveitum en þeir eru að miklu leyti farfuglar sem sennilega far til Suðvesturlands til vetrardvalar en snú aftur í mars lok.
-
-Dróninn
-
-
-Steindin
 
 Skollaber eru frekar sjaldgæf hér á landi og vaxa innan um lyng. Þau finnast á fáeinum stöðum við Hrútafjörð og á Skaga en eru nokkuð algeng á Tröllaskaga Skagafjarðarmegin.
 
 ---
-class: inverse, middle, center
 
-# Mjög fallegt stuðlaberg finnst á nokkrum stöðum. Þekktustu staðirnir eru Hofsós, Kálfshamarsvík og Borgarvirki. Færri vita af geisifallegu stuðlabergi í Nesbjörgum í Vesturhópi eða Káraborg á Vatnsnesi, eins má nefna merkilegt stuðlaberg í stórri námu hjá Friðmundarvötnum á Auðkúluheiði við leiðina um Kjalveg. Eða merkilegt stuðlaberg sem að hafnargarðurinn á Skagaströnd er byggður utan í.
-
----
-class: middle, center
+class: inverse
 
 Erindi:
-.large[
+.large[.content[
 
-  - International Symposium on Plastics in the Arctic and Sub-Arctic Region on March 2-4 and 8-9, 2021
-  - Ársfundur NÍ og náttúrustofa 19. október. 2021 að Laugarbakka í Miðfirði
-  - um náttúruvernd
-  
-  
-Fuglar á Skagaströnd
-Ráðstefna (meðhöfundur)
-
-Conferences and talks
-1. 8th of April 2021: Íslenskar æskulýðsrannsóknir: Hvert er ferðinni heitið?
-Chauvat & Aquino. Using Place-based education projects to engage youth in Arctic nature.
-2. 6th of May 2021: Polar Early Career Conference
-Chauvat, Aquino and Granquist. Analyzing visitors' values and perceptions to inform management at seal watching sites in northwestern Iceland.
+Erindi og fræðsla
 
 
-]
+- 9. maí: Fuglaskoðun í Grunnafirði á alþjóðlega farfugladeginum. Í samstarfi við Fuglavernd.
+- 2.-4. mars: International Symposium on Plastics in the Arctic and Sub-Arctic Region.
+- 19. október: Ársfundur NÍ og náttúrustofa að Laugarbakka í Miðfirði.
+- um náttúruvernd
+- Fuglar á Skagaströnd
+- 8. apríl: Íslenskar æskulýðsrannsóknir: Hvert er ferðinni heitið? Using Place-based education projects to engage youth in Arctic nature.
+- 6 maí: Polar Early Career Conference. Analyzing visitors' values and perceptions to inform management at seal watching sites in northwestern Iceland.
+- Náttúrufræðikennsla Höfðaskóla í samstarfi við BioPol og NNV.
+- 4. des.: Bernarsáttmálinn í Strasbourg. Erindi, náttúruvernd. 
+
+Fjölmiðlar:
+
+- Samfélagið á Rás1, útvarpsviðtal, 24. sept. 2021.
+- Samfélagið á Rás1, útvarpsviðtal, 29. des. 2021.
+- „Rekaviður – ákall í verki“ Heimildamynd, Ines Meier.
+- „Frá fjöru til fjalls“ Heimildamynd, Ásdís Thoroddsen.
+- „Enginn veit hvað átt hefur fyrr en misst hefur“ Ólafur Sveinsson, SUNN og Landvernd
+
+
+]]
+
 
 
 ---
@@ -615,18 +487,97 @@ background-size: contain
 
 class: split-three white
 
-.column[.content.nopadding[
-    
-    .img-fill[![](myndir/breyttar/gullspora.png)]
-    
-  ]]
+.column[.nopadding[
+.img[![](myndir/breyttar/gullspora.png)]
+.footer-note[Gullsporablóm]      ]]
   
-.column.bg-blue[.content[
-  content of second column
+.column.bg-blue[.content.vmiddle[
+.Large[Sjaldgæfar plöntur og slæðingar voru víða skráðar samhliða öðrum rannsóknum, merkilegast má telja fágætar jurtir sem eru að berast víða inn um hálendið með erlendum ferðamönnum. Má hér helst geta **fagurfífils**, **regfangs** afbrigðis og **sólfylgju** sem nú eru á Hveravöllum. Áhugaverðasta plantan sem fannst á láglendi var **stúfa** en stúfan hefur annars einungis vaxtarstaði á Suðurlandi. Gullsporablóm hefur nýlega fundist á tveimur stöðum á Norðurlandi vestra. Áður var það aðeins fundið á tveimur stöðum á landinu.]
+.img[![](myndir/solfyglja.JPEG)] 
+
 ]]
 .column.bg-green[.content[
-  content of third column
+  .img[![](myndir/stufa.png)]  
+  .tiny[Stúfa]  
+  .img[![](myndir/kort.png)]  
+  .tiny[Útbreiðsla stúfu]
+  
 ]]
 
 ---
+
+
+
+layout:false
+class: split-50 bg-white with-border
+background-image: url(myndir/ashildur.JPEG)
+background-size: cover
+
+.row[
+
+
+
+]
+
+.row[
+  .split-three.with-border[
+  .column.bg-white[.content.pad1[
+  .font2[Ýmislegt]
+  
+- Náttúrustofan og BioPol hafa haldið áfram athugunum á örplasti í sjó við Skagaströnd. Örplastagnirnar voru greindar hjá nýsköpunarmiðstöðinni með Raman-smásjá.
+
+
+- Sett var upp vefsíða fyrir verkefnið [„Youth for Arctic Nature“](https://www.arcticnature.org/) sem er unnið í samstarfi við Húnaklúbbinn á Hvammstanga og styrkt af sjóðnum NORA og loftslagssjóðnum.
+
+]]
+
+.column.bg-white[.content.pad1[
+  
+  
+- Náttúrustofan hefur fengið til liðs við sig jarðfræðinga frá Háskóla Íslands og Vegagerðinni til að staðfesta aldur Vatnsdalshólanna. Með aldursgreingum og öskulagatímatali.
+
+
+- Sett var upp vefsíða fyrir verkefnið [„Youth for Arctic Nature“](https://www.arcticnature.org/) sem er unnið í samstarfi við Húnaklúbbinn á Hvammstanga og styrkt af sjóðnum NORA og loftslagssjóðnum.
+
+]
+
+  ]
+  .column.bg-white[.content.pad1[
+  .font2[Ýmislegt]
+  
+- Náttúrustofan og BioPol hafa haldið áfram athugunum á örplasti í sjó við Skagaströnd. Örplastagnirnar voru greindar hjá nýsköpunarmiðstöðinni með Raman-smásjá.
+
+
+- Sett var upp vefsíða fyrir verkefnið [„Youth for Arctic Nature“](https://www.arcticnature.org/) sem er unnið í samstarfi við Húnaklúbbinn á Hvammstanga og styrkt af sjóðnum NORA og loftslagssjóðnum.
+
+]]
+]]
+
+---
+
+
+
+layout:false
+class: split-50 bg-white with-border
+background-image: url(myndir/odinshani.JPG)
+background-size: cover
+
+.content[
+.justify-right.white.large[
+## Sjaldgæfir gestir og áhugaverðar athuganir úr fuglalífinu
+
+Rósastari, þessi fágæti flækingur frá Steppum Kasakstan kom á Hvammstanga í lok ágúst og hélt til í garði fuglavina við gott atlæti þar til hann var drepinn af ketti rétt fyrir jól. Þetta er í þriðja sinn sem þessi sjaldgæfa fuglategund finnst á Norðurlandi vestra. 
+
+Skeiðendur fundust að þessu sinni í Glaumbæjarey í Skagafirði og Miðfirði. Fáeinar hrafnsendur hafa sést í Skagafirði undanfarin ár við Miklavatn og ósa Héraðsvatnanna eins sjást þær við Friðmundarvötn á hálendinu. Líklega eru þær enn fágætir varpfuglar á svæðinu.
+
+Æðarkóngur sást um vorið við Blönduós. Söngþröstur, hettusöngvari,
+landsvala og flekkugrípur sáust, sá síðastnefndi er fremur fátíður flækingur
+hérlendis. Flekkugrípar verpa víða á Norðurlöndunum. Flekkugrípurinn var sá fyrsti sem sést hefur á Norðurlandi. Eins og undanfarin ár sáust snæuglur á hefðbundnum slóðum við gróðurvinjar á auðnum Miðhálendisins.
+
+Nokkuð sást af gargöndum í Skagafirði en þar verpa fáeinir tugir para þessarar annars fágætu andategundar sem annars er aðallega bundin við Mývatn og Laxá ásamt Aðaldal. Grafendur finnast nokkuð víða um héraðið en eru þó mjög fáliðaðar þó nóg sé kjörlendið í Eylendi Skagafjarðar og votlendi í Vatnsdal. Brandendur sjást nú nokkuð víða á svæðinu og eru reglulegir varpfuglar við Sigríðarstaðavatn.
+
+Minna var um varp hjá fálka en undanfarin ár enda er fremur lítið af rjúpum sem eru mikilvægasta fæða fálkans. 
+
+Nýbúunum svartþresti, glókolli og krossnef heldur hægt og bítandi áfram að fjölga sem og öðrum fuglum sem njóta góðs af trjárækt og vaxandi skógum. Starar hafa einnig náð nokkuð öruggri fótfestu í bæjum og sveitum en þeir eru að miklu leyti farfuglar sem sennilega fara til Suðvesturlands til vetrardvalar en snúa aftur í mars lok.]
+]
 
