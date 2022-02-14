@@ -69,15 +69,15 @@ class: split-60 with-border
 .column[.content[
 # .font-dance[Inngangur]
 
-Starf náttúrustofunar í ár var að venju fjölbreytt og áhugavert. Farið var víða um Norðurland vestra til náttúruathugana og rannsókna enda er af nógu að hyggja á landsvæði sem spannar 13.105 km2.
+Starf Náttúrustofu Norðurlands vestra í ár var að venju fjölbreytt og áhugavert. Farið var víða um landshlutann til náttúruathugana og rannsókna enda er af nógu að hyggja á landsvæði sem spannar 13.105 km~2~.
 
-Viðfangsefni náttúrustofunnar snérust að miklu leyti um vöktun náttúru svæðisins, dýra- og plöntulífs og jarðminja auk þess að svara almennum fyrirspurnum, hjúkra villtum dýrum í neyð og taka þátt í fræðslu ungmenna á svæðinu. Fylgst var með fuglum sem og ágengum plöntutegundum ásamt ágengum dýrum líkt og minkum og refum.
+Viðfangsefni Náttúrustofunnar snérust að miklu leyti um vöktun náttúru svæðisins, dýra- og plöntulífs og jarðminja auk þess að svara almennum fyrirspurnum, hjúkra villtum dýrum í neyð og taka þátt í fræðslu ungmenna á svæðinu. Fylgst var með fuglum sem og ágengum plöntutegundum ásamt ágengum dýrum, líkt og minkum og refum.
 
-   Um vorið voru gerðar athuganir á gæsum yfir landsvæðið þvert og endilangt, frá Fljótum í Skagafirði til Bitrufjarðar á Ströndum. Eins var farið norður á Skaga og suður að Ingólfskála og að Hofsjökli til að skoða jökulröndina en þaðan er uppganga á jökulinn hvað auðveldust. Jafnframt var farið um heiðalöndin yfir sumarið og athuganir gerðar við Orravatnsrústir á Stórasandi og á Arnarvatnsheiði.
+   Um vorið voru gerðar athuganir á gæsum yfir landsvæðið þvert og endilangt, frá Fljótum í Skagafirði til Bitrufjarðar á Ströndum. Eins var farið norður á Skaga og suður að Ingólfsskála og að Hofsjökli til að skoða jökulröndina en þaðan er uppganga á jökulinn hvað auðveldust. Jafnframt var farið um heiðalöndin yfir sumarið og athuganir gerðar á Arnarvatnsheiði og við Orravatnsrústir á Stórasandi.
 
-   Náttúrustofan hefur unnið mikið starf við verkefnið „Vöktun náttúruverndarsvæða“ sem er leitt af Náttúrufræðistofnun Íslands og unnið í samstarfi við allar náttúrustofurnar sem eru dreifðar um landið. *Gerðar voru úttektir á náttúruverndarstöðum og ferðamannastöðum til að meta ástand þeirra og mögulegar ógnir sem að þeim sækir og fylgir gjarnan auknum ferðamannastraumi, sérstaklega ef innviði vantar og eftirliti er ábótavant.* Náttúruverndarsvæði Norðurlands vestra og aðrir vinsælir ferðamannastaðir eru mikil verðmæti sem skapa miklar tekjur í ferðamennsku. Þeir hafa mikið gildi í sjálfu sér og eru framtíðarverðmæti komandi kynslóða.
+   Náttúrustofan hefur unnið mikið starf við verkefnið „Vöktun náttúruverndarsvæða“ sem er leitt af Náttúrufræðistofnun Íslands og unnið í samstarfi við allar náttúrustofur landsins. Gerðar voru úttektir á náttúruverndarstöðum og ferðamannastöðum til að meta ástand þeirra og mögulegar ógnir sem að þeim sækja og fylgja gjarnan auknum ferðamannastraumi, sérstaklega ef innviði vantar og eftirliti er ábótavant. Náttúruverndarsvæði Norðurlands vestra og aðrir vinsælir ferðamannastaðir eru mikil verðmæti sem skapa miklar tekjur í ferðamennsku. Þeir hafa mikið gildi í sjálfu sér og eru framtíðarverðmæti komandi kynslóða.
    
-Á Norðurlandi vestra eru þónokkur náttúruverndarsvæði og all mörg önnur svæði sem ekki njóta beinnar náttúruverndar en teljast afar mikilvæg fyrir náttúru Íslands. Má hér til dæmis nefna hin víðáttumiklu vatna- og heiðasvæði Guðlaugstungur og Arnarvatnsheiði og einnig Skagaheiðina, Eylendið í Skagafirði eða Flóðið og Eylendið í Vatnsdal, fuglabjörgin í Drangey og Málmey. Strandlónin Höfðavatn og Sigríðarstaðavatn bera einnig mikið og fjölbreytt fuglalíf. Það hefur fallið að nokkru leiti í hlut náttúrustofunnar að fylgjast með þessum stöðum, skrásetja og telja fugla og plöntur.
+Á Norðurlandi vestra eru þónokkur náttúruverndarsvæði og allmörg önnur svæði sem ekki njóta beinnar náttúruverndar en teljast afar mikilvæg fyrir náttúru Íslands. Má hér til dæmis nefna hin víðáttumiklu vatna- og heiðasvæði Guðlaugstungur og Arnarvatnsheiði og einnig Skagaheiðina, Eylendið í Skagafirði eða Flóðið og Eylendið í Vatnsdal, fuglabjörgin í Drangey og Málmey. Strandlónin Höfðavatn og Sigríðarstaðavatn bera einnig mikið og fjölbreytt fuglalíf. Það hefur fallið að nokkru leyti í hlut Náttúrustofunnar að fylgjast með náttúrufari á þessum stöðum og   sinna rannsóknum og eftirliti.
 
   ]]
  
@@ -85,7 +85,7 @@ Viðfangsefni náttúrustofunnar snérust að miklu leyti um vöktun náttúru s
 
 .img-fill[![](myndir/blom.JPG)]
 
-.footnote.black.content-box-blue[
+.footnote.white[
 
 Orkídeutegundin kræklurót, er fremur sjaldgæf sníkjujurt án blaðgrænu. Kræklurótin finnst nokkuð víða í héraðinu.
 ]
@@ -102,7 +102,7 @@ class: split-60 with-border middle
 .column[.content.nopadding[
 
 .img-fill[![](myndir/blautt.JPEG)]
-.footnote.green[
+.footer-note-black.white[
 Gróðurvist á hálendinu. Snjómosi. Hér má sjá fræ grasvíðis (hvítu hárin með daggardropunum), kornsúru og snjómosa.
 ]
 
@@ -110,13 +110,11 @@ Gróðurvist á hálendinu. Snjómosi. Hér má sjá fræ grasvíðis (hvítu h�
 ]]
 
 .column[.content[
+Áhersla er lögð um allt land á innviðauppbyggingu og eftirlit með náttúruverndarsvæðum og öðrum stöðum með merkilegt náttúrufar, svo sem merkum jarðminjum eða ríkulegu fuglalífi. Á Norðurlandi vestra finnast margir staðir sem tilheyra þessum flokki og með áframhaldandi uppbyggingu innviða þeirra er hægt að koma í veg fyrir að landshlutinn dragist aftur úr öðrum. Landverðir á vegum Umhverfisstofnunar eru ekki starfandi á svæðinu og er það bagalegt. Sem dæmi má nefna að gerð og viðhald gönguleiða bera þess víða merki, en sú vinna hefur aðallega fallið í hlut viðkomandi sveitarfélaga. Yfir háferðamannatímann er eftirliti á Hveravöllum sinnt vikulega af landverði sunnan úr Kerlingafjöllum. Hveravellir tilheyra þó vissulega Norðurlandi vestra og eru sennilega annar fjölsóttasti ferðamannastaður á hálendi Íslands á eftir Landmannalaugum.
 
+Guðlaugstungur eru víðáttumikið friðland á hálendinu sunnan Blöndulóns. Þar eru tíðar ferðir reiðhópa og fólks á jeppum eða léttari torfærutækjum á sumrin. Guðlaugstungur eru með stærsta varp heiðagæsa í heiminum, jafnvel stærra en í Þjórsárverum. Ekki er óalgengt að að sjá sjaldgæfa fugla þar á sveimi líkt og haferni, fálka og snæuglur. Mikilvægi svæðisins er óumdeilt og nauðsynlegt er að huga vel að þessu svæði, sem og öðrum svæðum sem nefnd voru hér að ofan, til framtíðar.   
 
-Norðurland vestra hefur því miður orðið mjög útundan þegar að kemur að innviðauppbygingu og eftirliti á náttúruverndarsvæðum og annarra staða með merkilegt náttúrufar, svo sem merkar jarðminjar eða ríkulegt fuglalíf. Landverðir á vegum Umhverfistofnunar eru ekki starfandi á svæðinu fyrir utan vikulega heimsókn á Hveravelli yfir háferðamannatímann en því er sinnt af landverði frá Kerlingarfjöllum þó vissulega tilheyri Hveravellir Norðurlandi vestra. Þessi skortur á landvörslu er mjög bagalegur sem víða má sjá í tengslum við gerð og viðhald gönguleiða sem hefur aðalega fallið í hlut sveitarfélaganna á svæðinu. Rétt er að geta þess að Hveravellir eru sennilega annar fjölsóttasti ferðamannastaður á hálendi Íslands á eftir Landmannalaugum.
-
-Guðlaugstungur eru víðáttumikið friðland á hálendinu sunnan Blöndulóns. Þar er allmikil ferðamennska, sérstaklega reiðhópa og jeppafólks eða fólki á léttari torfærutækjum. Guðlaugstungur eru með stærsta varp heiðagæsa í heiminum og hafa slegið út Þjórsárver í þeim efnum. Ekki er óalgengt að að sjá sjaldgæfa fugla þar á sveimi líkt og haferni, fálka og snæuglur. Mikilvægi svæðisins er óumdeilt og nauðsynlegt er að huga vel að þessu svæði, sem og öðrum svæðum sem nefnd voru hér að ofan, til framtíðar.   
-
-Náttúrustofan hefur notið góðs samstarfs við rannsóknarstofnanir á svæðinu. Á Skagaströnd deilum við skrifstofuhúsnæði og rannsóknaraðstöðu með BioPol en þar á milli hefur verið ríkt samstarf t.d. í strandvöktun á vegum OSPAR, þang- og þararannsóknir og vöktun á örplasti í Húnaflóa. Á Hvammstanga erum við undir sama þaki og starfsfólk Hafró, Selasetursins og Háskólans á Hólum. Þar er t.d. unnið að fræðsluverkefni fyrir unglinga og rannsóknum á ferðamennsku í kringum selaskoðun. Höfuðstöðvarnar eru sem áður við Aðalgötu 2 á Sauðárkróki með skrifstofu og rannsóknaraðstöðu. 
+Náttúrustofan hefur notið góðs samstarfs við rannsóknarstofnanir á svæðinu. Á Skagaströnd deilum við skrifstofuhúsnæði og rannsóknaraðstöðu með BioPol en þar á milli hefur verið ríkt samstarf t.d. í strandvöktun á vegum OSPAR, þang- og þararannsóknum og vöktun á örplasti í Húnaflóa. Á Hvammstanga erum við undir sama þaki og starfsfólk Hafró, Selasetursins og Háskólans á Hólum. Þar er t.d. unnið að fræðsluverkefni fyrir unglinga og rannsóknum á ferðamennsku í kringum selaskoðun. Höfuðstöðvar Náttúrustofunnar eru sem áður við Aðalgötu 2 á Sauðárkróki en þar er skrifstofa og rannsóknaraðstaða. 
 
  
  
@@ -193,7 +191,29 @@ Cecile Chauvat, verkfræðingur í fjarskiptatækni (MSc.). haf- og strandsvæð
 
 ]]
 
+---
+class: split-three, middle
+background-image: url(myndir/breyttar/bolugil.JPG)
+background-size: cover
 
+.column.bg-white[
+.large[.content.pad1[
+
+
+
+## Erindi og fræðsla
+
+
+- Fuglaskoðun í Grunnafirði á alþjóðlega farfugladeginum. Í samstarfi við Fuglavernd. 9. maí. 
+- International Symposium on Plastics in the Arctic and Sub-Arctic Region. 2.-4. mars.
+- Ársfundur NÍ og náttúrustofa að Laugarbakka í Miðfirði. 19. október.
+- Íslenskar æskulýðsrannsóknir: Hvert er ferðinni heitið? Using Place-based education projects to engage youth in Arctic nature. 8. apríl. 
+- Polar Early Career Conference. Analyzing visitors' values and perceptions to inform management at seal watching sites in northwestern Iceland, 6. maí. 
+- Náttúrufræðikennsla Höfðaskóla í samstarfi við BioPol og NNV.
+- Bernarsáttmálinn í Strasbourg. Erindi, náttúruvernd. 4. des.
+]
+]
+]
 ---
 layout:false
 class: split-40 bg-white with-thick-border middle
@@ -204,7 +224,7 @@ background-size: cover
   .column[
   .large[
 
-Starfsmenn náttúrustofunnar tóku þátt í **arnarmerkingum** með starfsmönnum Náttúrufræðistofnunar Íslands. Alls voru merktir arnarungar á 4 hreiðrum á okkar svæði. Ernir sáust víða og má teljast merkilegt hvað þeir eru tíðir á Arnarvatnsheiði og á Miðhálendinu t.d. Ásbjarnarvötn í um 700 mys.
+Náttúrustofan tók þátt í **arnarmerkingum** með starfsmönnum Náttúrufræðistofnunar Íslands. Alls voru merktir arnarungar á 4 hreiðrum á okkar svæði. Ernir sáust víða og má teljast merkilegt hvað þeir eru tíðir á Arnarvatnsheiði og á Miðhálendinu til dæmis við Ásbjarnarvötn í um 700 metra hæð yfir sjávarmáli.
 
 ]
 ]
@@ -299,7 +319,7 @@ class: split-40 bg-white with-thick-border
 background-size: cover
 
 .row[.large.vmiddle[
-.Large[Mjög fallegt stuðlaberg] finnst á nokkrum stöðum. Þekktustu staðirnir eru Hofsós, Kálfshamarsvík og Borgarvirki. Færri vita af geisifallegu stuðlabergi í **Nesbjörgum í Vesturhópi** eða **Káraborg á Vatnsnesi**, eins má nefna merkilegt stuðlaberg í stórri námu hjá Friðmundarvötnum á Auðkúluheiði við leiðina um Kjalveg. Eða merkilegt stuðlaberg sem að hafnargarðurinn á Skagaströnd er byggður utan í.
+.Large[Mjög fallegt stuðlaberg] finnst á nokkrum stöðum. Þekktustu staðirnir eru Hofsós, Kálfshamarsvík og Borgarvirki. Færri vita af geisifallegu stuðlabergi í **Nesbjörgum í Vesturhópi** eða **Káraborg á Vatnsnesi**, eins má nefna merkilegt stuðlaberg í stórri námu hjá **Friðmundarvötnum á Auðkúluheiði** við leiðina um Kjalveg. Eða merkilegt stuðlaberg sem að **hafnargarðurinn á Skagaströnd** er byggður utan í.
 ]]
 
 
@@ -470,8 +490,8 @@ class: split-four
 background-image: url(myndir/Drangey_sky.JPG)
 background-size: contain
 
-.column.bg-main1[.content.vmiddle.center.nopadding[
-.footnote.white[Dróni var keyptur í tengslum við Vöktun náttúruverndarsvæða árið 2020 og hefur verið notaður við kortlagningu og ýmislegt fleira]
+.column.bg-main1[.content.vmiddle.nopadding[
+.footer-note-R[Dróni var keyptur í tengslum við vöktun náttúruverndarsvæða árið 2020. Hann hefur verið notaður við kortlagningu og ýmislegt fleira.]
   .img-fill[![](myndir/droni.JPEG)]
 ]]
 .column.bg-main2[.content[
@@ -481,7 +501,7 @@ background-size: contain
 
 ]]
 .column.bg-main4[.content[
-.footnote[Drangey]
+.footnote.Large.white[Drangey]
 ]]
 ---
 
@@ -489,18 +509,17 @@ class: split-three white
 
 .column[.nopadding[
 .img[![](myndir/breyttar/gullspora.png)]
-.footer-note[Gullsporablóm]      ]]
-  
-.column.bg-blue[.content.vmiddle[
-.Large[Sjaldgæfar plöntur og slæðingar voru víða skráðar samhliða öðrum rannsóknum, merkilegast má telja fágætar jurtir sem eru að berast víða inn um hálendið með erlendum ferðamönnum. Má hér helst geta **fagurfífils**, **regfangs** afbrigðis og **sólfylgju** sem nú eru á Hveravöllum. Áhugaverðasta plantan sem fannst á láglendi var **stúfa** en stúfan hefur annars einungis vaxtarstaði á Suðurlandi. Gullsporablóm hefur nýlega fundist á tveimur stöðum á Norðurlandi vestra. Áður var það aðeins fundið á tveimur stöðum á landinu.]
+.footer-note[Gullsporablóm]
+]]
+.column.bg-blue[.content.vmiddle[.Large[Sjaldgæfar plöntur og slæðingar voru víða skráðar samhliða öðrum rannsóknum, merkilegast má telja fágætar jurtir sem eru að berast víða inn um hálendið með erlendum ferðamönnum. Má hér helst geta **fagurfífils**, **regfangs** afbrigðis og **sólfylgju** sem nú eru á Hveravöllum. Áhugaverðasta plantan sem fannst á láglendi var **stúfa** en stúfan hefur annars einungis vaxtarstaði á Suðurlandi. Gullsporablóm hefur nýlega fundist á tveimur stöðum á Norðurlandi vestra. Áður var það aðeins fundið á tveimur stöðum á landinu.]
 .img[![](myndir/solfyglja.JPEG)] 
-
+Sólfylgja
 ]]
 .column.bg-green[.content[
   .img[![](myndir/stufa.png)]  
-  .tiny[Stúfa]  
+  Stúfa 
   .img[![](myndir/kort.png)]  
-  .tiny[Útbreiðsla stúfu]
+  Útbreiðsla stúfu
   
 ]]
 
@@ -558,18 +577,25 @@ background-size: cover
 
 
 layout:false
-class: split-50 bg-white with-border
+class: split-40
 background-image: url(myndir/odinshani.JPG)
 background-size: cover
 
-.content[
-.justify-right.white.large[
-## Sjaldgæfir gestir og áhugaverðar athuganir úr fuglalífinu
 
+
+
+.row[
+.content.justify-right.white[
+## Sjaldgæfir gestir og áhugaverðar athuganir úr fuglalífinu
 Rósastari, þessi fágæti flækingur frá Steppum Kasakstan kom á Hvammstanga í lok ágúst og hélt til í garði fuglavina við gott atlæti þar til hann var drepinn af ketti rétt fyrir jól. Þetta er í þriðja sinn sem þessi sjaldgæfa fuglategund finnst á Norðurlandi vestra. 
 
 Skeiðendur fundust að þessu sinni í Glaumbæjarey í Skagafirði og Miðfirði. Fáeinar hrafnsendur hafa sést í Skagafirði undanfarin ár við Miklavatn og ósa Héraðsvatnanna eins sjást þær við Friðmundarvötn á hálendinu. Líklega eru þær enn fágætir varpfuglar á svæðinu.
-
+]]
+.row.white[
+.split-two[
+.column[
+]
+.column[
 Æðarkóngur sást um vorið við Blönduós. Söngþröstur, hettusöngvari,
 landsvala og flekkugrípur sáust, sá síðastnefndi er fremur fátíður flækingur
 hérlendis. Flekkugrípar verpa víða á Norðurlöndunum. Flekkugrípurinn var sá fyrsti sem sést hefur á Norðurlandi. Eins og undanfarin ár sáust snæuglur á hefðbundnum slóðum við gróðurvinjar á auðnum Miðhálendisins.
@@ -579,5 +605,6 @@ Nokkuð sást af gargöndum í Skagafirði en þar verpa fáeinir tugir para þe
 Minna var um varp hjá fálka en undanfarin ár enda er fremur lítið af rjúpum sem eru mikilvægasta fæða fálkans. 
 
 Nýbúunum svartþresti, glókolli og krossnef heldur hægt og bítandi áfram að fjölga sem og öðrum fuglum sem njóta góðs af trjárækt og vaxandi skógum. Starar hafa einnig náð nokkuð öruggri fótfestu í bæjum og sveitum en þeir eru að miklu leyti farfuglar sem sennilega fara til Suðvesturlands til vetrardvalar en snúa aftur í mars lok.]
+]
 ]
 

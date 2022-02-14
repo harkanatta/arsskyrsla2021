@@ -1387,7 +1387,7 @@
 
 .footer-note-R {
     position: absolute;
-    bottom: 5px;
+    top: 5px;
     right: 10px;
     width: 200px;
     height: 25px;

@@ -19,6 +19,23 @@ body {
   text-align: justify;
 }
 
+.footer-note-R {
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    width: 80%;
+    height: 25px;
+}
+
+.footer-note-black {
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+    width: 200px;
+    height: 25px;
+    background-color: black; 
+}
+
 /******************
  ninjutsu.css is best coupled with kunoichi.css or shinobi.css
  See https://emitanaka.github.io/ninja-theme for an example.
