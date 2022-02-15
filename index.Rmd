@@ -706,23 +706,26 @@ background-size: cover
 .row[
   .split-three[
   .column[
+  
+  .footer-note-black.white.scriptsize[Horft inn Skagafjörð í átt að Sjávarborg.]
+  
   ]
 
-.column[.content.nopadding[
+.column[
   
- 
+  
 
 ]
 
-  ]
-  .column.bg-white[.content.pad1.vmiddle[
+.column.bg-white[.content.pad1.vmiddle[
+
    .img-fill[![](myndir/nnvlogo.png)]
 
 
 
 **Uppsetning og texti:**
 
-Valtýr Sigurðsson og Einar Ó. Þorleifsson, árið 2022.
+Valtýr Sigurðsson og Einar Ó. Þorleifsson, 2022.
 
 **Myndir:** Náttúrustofa Norðurlands vestra
 
