@@ -190,7 +190,7 @@ class: split-60 with-border middle
 
 
 # .black.font-dance[Starfsmenn]
-Cecile Chauvat, verkfræðingur í fjarskiptatækni (MSc.). haf- og strandsvæðastjórnun (MIM.), hefur verið í hlutastarfi hjá NNV í tengslum við fræðsluverkefni á vegum NORA-sjóðsins og verkefni á vegum loftlagssjóðs/Rannís.
+Cecile Chauvat, verkfræðingur í fjarskiptatækni (MSc.). haf- og strandsvæðastjórnun (MIM.), hefur starfað í tengslum við fræðsluverkefni á vegum NORA-sjóðsins og verkefni á vegum loftlagssjóðs/Rannís.
 
 
 ]]
@@ -203,8 +203,8 @@ background-image: url(myndir/breyttar/kattarauga.JPEG)
 background-size: cover
 
 .white.font-dance.font5[Helstu viðfangsefni...]
- .footer-note-black.white.scriptsize[
- 
+ .footer-note-black.white[
+ Kattarauga í Vatnsdal er lítil djúp tjörn með gróðurhólmum sem aðskiljast líklega frá bökkunum og fljóta út á tjörnina. Kattarauga er friðlýst náttúruvætti. 
  ]
 ---
 
@@ -328,21 +328,21 @@ background-size: cover
   .column[.nopadding[
 
   .img-fill[![](myndir/burstaormur.jpeg)]
-
+.footer-note-black.white.scriptsize[Burstaormur úr Kolgrafafirði]
 
   ]]
 
 .column.bg-white[.nopadding[
 
  .img-fill[![](myndir/DAPHNIA_PULEX.JPG)]
-
+.footer-note-black.white.scriptsize[Stutthalafló úr Reiðarvatni á Hofsafrétti]
   ]
 
   ]
   .column.bg-white[.nopadding[
 
   .img-fill[![](myndir/Clongocirrata.jpg)]
-
+ .footer-note-black.white.scriptsize[Microphthalmus sp.]
   ]]
 ]]
 
@@ -656,9 +656,37 @@ Náttúrustofan tekur reglulega sýni úr **hvölum** sem rekur á land og kemur
 
 ---
 layout: false
+class: split-two with-thick-border middle
+.row[
+.split-two[
+.column[
 
 # Lífríki og loftslagsbreytingar
-NNV er að auka á rannsóknir sem lúta að loftlagsbreytingum og áhirf þeirra á útbreiðslu og plantna. Viðbúið er að hánorrænar fuglategundir og fjallaplöntur muni breyta útbreiðslu sinni á komandi árum. Í  því sambandi má nefna sólskríkju/snjótittling og fjallaplönturnar jöklasóley og fjallavorblóm. Náttúrustofan hefur sinnt athugunum á sífrera í gróðurvinjum hálendisins. Sífrerinn er mikilvægur fyrir gróður og fuglalíf á miðhálendinu.
+NNV hefur í sífelldri athugun áhirf loftslagsbreytinga á útbreiðslu dýra og plantna. Viðbúið er að hánorrænar fuglategundir og fjallaplöntur hörfi til kaldari svæða á komandi árum. Í því sambandi má nefna sólskríkju/snjótittling og fjallaplönturnar jöklasóley og fjallavorblóm. Náttúrustofan hefur sinnt athugunum á sífrera í gróðurvinjum hálendisins en sífrerinn er mikilvægur fyrir gróður og fuglalíf á miðhálendinu.
+
+]
+
+.column.nopadding[
+ .img-fill[![](myndir/breyttar/rust.JPEG)]
+.footer-note-black.white.scriptsize[Nýmynduð rúst í Orravatnsrústum]
+]
+
+]
+]
+
+.row[
+.split-two[
+.column.nopadding[
+ .img-fill[![](myndir/breyttar/joklasoley.JPEG)]
+.footer-note-black.white.scriptsize[Jöklasóley í 900 metra hæð yfir sjávarmáli]
+]
+.column.nopadding[
+ .img-fill[![](myndir/breyttar/fjallavorblom.JPEG)]
+.footer-note-black.white.scriptsize[Fjallavorblóm]
+]
+]
+]
+
 
 ---
 
