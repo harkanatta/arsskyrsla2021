@@ -357,36 +357,18 @@ background-size: cover
 ---
 
 layout:false
-class: split-50 bg-white
-background-image: url(myndir/ashildur.JPEG)
-background-size: cover
+background-image: url(myndir/reykjafoss.jpeg)
+background-size: contain
 
-.row[
-
-]
-
-.row[
   .split-three[
-  .column.bg-white[.content[
+  .column.bg-white[.content.pad1[
   
 - Náttúrustofan og BioPol hafa haldið áfram athugunum á örplasti í sjó við Skagaströnd. Örplastagnirnar voru greindar hjá Nýsköpunarmiðstöðinni með Raman-smásjá.
 
 - Náttúrustofan tók þátt í vinnuhópi á vegum Norrænu ráðherranefndarinnar, NordMar Plastic og nú um þessar mundir er grein í birtingarferli hjá tímaritinu Microplastics and Nanoplastics.
 
-- Sett var upp vefsíða fyrir verkefnið [„Youth for Arctic Nature“](https://www.arcticnature.org/) sem er unnið í samstarfi við Húnaklúbbinn á Hvammstanga og styrkt af sjóðnum NORA og loftslagssjóðnum.
+- Sett var upp vefsíða fyrir verkefnið „Youth for Arctic Nature“ sem er unnið í samstarfi við Húnaklúbbinn á Hvammstanga og styrkt af sjóðnum NORA og loftslagssjóðnum.
 
-
-
-]]
-
-.column[.content.nopadding[
-  
-
-
-]
-
-  ]
-  .column.bg-white[.content[
 - Náttúrustofan og Landgræðslan hafa haldið áfram samstarfi um endurheimt á votlendi og rannsóknir á breytingum á gróðri og fuglalífi.
 
 - Náttúrustofan hefur fengið til liðs við sig jarðfræðinga frá Háskóla Íslands og Vegagerðinni til að staðfesta aldur Vatnsdalshólanna. Með aldursgreingum og öskulagatímatali.
@@ -394,6 +376,21 @@ background-size: cover
 - Náttúrustofan hefur átt í samstarfi við Skógræktarfélag Íslands um fuglategundir og útbreiðslu þeirra á skógræktarsvæðum. Grein um það er í undirbúningi.
 
 - Unnið er að grein um útbreiðslusögu reyniviðar. Stefnt er að birtingu í Skógræktarritinu í vor.
+
+]]
+
+.column[
+]
+
+.column.bg-white[.content.pad1[
+
+### Rit:
+Jacobsen, M. W., Jensen, N. W., Nygaard, R., Præbel, K., Jónsson, B., Nielsen, N. H., … Hansen, M. M. (2021). A melting pot in the Arctic: Analysis of mitogenome variation in Arctic char ( Salvelinus alpinus ) reveals a 1000‐km contact zone between highly divergent lineages. Ecology of Freshwater Fish.
+
+Cécile Marie Chauvat, Jessica Aquino & Sandra Magdalena Granquist (2021). *Visitors’ values and perceptions of seal watching management in Northwestern Iceland*. Journal of Sustainable Tourism.
+
+ .footer-note-black.white.scriptsize[
+Reyniviður í gilinu við Reykjafoss í Skagafirði. Í dag vex villtur reyniviður eingöngu ígiljum og gljúfrum]
 
 ]]
 ]]
@@ -422,8 +419,17 @@ background-size: cover
 - Polar Early Career Conference. Analyzing visitors' values and perceptions to inform management at seal watching sites in northwestern Iceland, 6. maí. 
 - Náttúrufræðikennsla Höfðaskóla í samstarfi við BioPol og NNV.
 - Bernarsáttmálinn í Strasbourg. Erindi, náttúruvernd. 4. des.
+- Aðalfundur Selasetursins. Erindi um náttúrufræðirannsóknir NNV. 26. júní.
 ]
 ]
+]
+.column[
+
+ .footer-note-black.white.scriptsize[
+Fossaröðin í Bólugili og stórmerkileg jarðlög frá Tertíer tímabilinu]
+]
+.column[
+
 ]
 
 ---
@@ -450,8 +456,7 @@ background-size: cover
 - „Enginn veit hvað átt hefur fyrr en misst hefur“ Ólafur Sveinsson, SUNN og Landvernd.
 - „Svartþrestir bárust til Norðurlands með óveðri síðustu viku“, grein í Feyki 17. mars.
 
-## Rit:
-Cécile Marie Chauvat, Jessica Aquino & Sandra Magdalena Granquist. 2021. *Visitors’ values and perceptions of seal watching management in Northwestern Iceland*. Journal of Sustainable Tourism.
+
 ]
 ]
 ]
@@ -479,7 +484,7 @@ Fullorðinn fálkakarl fannst slasaður í Hrútafirði. Hann var fóðraður og
   .split-three.with-thick-border[
   .column[.nopadding[
 
-  .img-fill[![](myndir/arnarungi.jpg)]
+  .img-fill[![](myndir/breyttar/arnarungi.JPEG)]
 .footer-note-black-R.white.scriptsize[
 Merktur arnarungi í hreiðri.
 ]
@@ -536,14 +541,14 @@ class: split-60 bg-white with-thick-border, middle
   .column[
   .large[
 
-.large[Steinar og steingervingar:] Nýr fundarstaður steingervinga frá tertíertímanum (ca. 6-8 milljón ár) fannst í afar fallegu gili sem nefnist Hrútagil sem er í Vesturdal í Skagafirði. Enn sem komið er hefur aðallega fundist þar surtarbrandur en hann er kolaðarleifar milljóna ára gamalla trjá einnig er að finna þar fíngert set með öðrum plöntuleifum sem mjög áhugavert verður að skoða nánar. 
+.large[Steinar og steingervingar:] Nýr fundarstaður steingervinga frá tertíertímanum (ca. 6-8 milljón ár) fannst í afar fallegu gili sem nefnist Hrútagil sem er í Vesturdal í Skagafirði. Enn sem komið er hefur aðallega fundist þar surtarbrandur en hann er kolaðar leifar milljóna ára gamalla trjáa. Einnig er að finna þar fíngert set með öðrum plöntuleifum sem mjög áhugavert verður að skoða nánar. 
 
 ]
 ]
 
 .column[
 .large[
-Ýmsar fágætar tegundir steinda og kristalla fundust á Vatnsnesi og verður þeirra getið nánar eftir frekari greiningar. Töluvert hefur einnig fundist af málmsteindum og verður mjög áhugavert að fá frekari greiningar á þeim. Fágæt tegund geislasteins fundin í Hegranesi mjög óalgengt er að geislarnir séu gulir.
+Ýmsar fágætar tegundir steinda og kristalla fundust á Vatnsnesi og verður þeirra getið nánar eftir frekari greiningar. Töluvert hefur einnig fundist af málmsteindum og verður mjög áhugavert að fá frekari greiningar á þeim. Fágæt tegund geislasteins fannst í Hegranesi, mjög óalgengt er að geislarnir séu gulir.
 
 ]
 ]
@@ -568,14 +573,15 @@ background-size: cover
   .column[.nopadding[
 
   .img-fill[![](myndir/breyttar/fridmundarvotn.jpeg)]
-.footer-note-black.white.scriptsize[Stuðlaberg við Friðmundarvötn]
+.footer-note-black-R.white.scriptsize[Stuðlaberg við Friðmundarvötn]
 
   ]]
 
 .column.bg-white[.nopadding[
 
  .img-fill[![](myndir/breyttar/Kari.jpeg)]
-.footer-note-black.white.scriptsize[Káraborg]
+
+.footer-note-black-R.white.scriptsize[Káraborg]
 
   ]
 
@@ -583,7 +589,7 @@ background-size: cover
   .column.bg-white[.nopadding[
 
   .img-fill[![](myndir/breyttar/hofnin.jpeg)]
-.footer-note-black.white.scriptsize[Hafnargarðurinn á Skagaströnd]
+.footer-note-black-R.white.scriptsize[Hafnargarðurinn á Skagaströnd]
   ]]
   
    .column.bg-white[.nopadding[
@@ -629,9 +635,9 @@ class: split-60 bg-white with-thick-border, middle
   .split-two.border-white[
   .column[
   .large[
-Þessi sjaldgæfi **kóngasvarmi** fannst á Hvammstanga. Hann er með allra stærstu næturfiðrildum sem hér finnast, með 8 til 10 cm vænghaf og er eitt stærsta skordýr Evrópu. Þetta er sjaldgæfur flækur sem berst með síðsumarvindum. Náttúrustofan tekur við ábendingum með glöðu geði og hjálpar til við greiningar á dýrum stórum sem smáum.
+Þessi sjaldgæfi **kóngasvarmi** fannst á Hvammstanga. Hann er með allra stærstu næturfiðrildum sem hér finnast, með 8 til 10 cm vænghaf og er eitt stærsta skordýr Evrópu. Þetta er sjaldgæfur flækingur sem berst með hlýum vindum síðsumars. Náttúrustofan tekur við ábendingum með glöðu geði og hjálpar til við greiningar á dýrum stórum sem smáum.
 
-Náttúrustofan tekur reglulega sýni úr **hvalrekum** og kemur þeim til hvalasérfræðinga Hafrannsóknastofnunar 
+Náttúrustofan tekur reglulega sýni úr **hvölum** sem rekur á land og kemur þeim til hvalasérfræðinga Hafrannsóknastofnunar.
 
 
 
@@ -641,15 +647,18 @@ Náttúrustofan tekur reglulega sýni úr **hvalrekum** og kemur þeim til hvala
 .column[
 .large[
 
-**Skollaber** eru frekar sjaldgæf hér á landi og vaxa innan um lyng. Þau finnast á fáeinum stöðum við Hrútafjörð og á Skaga en eru nokkuð algeng á Tröllaskaga Skagafjarðarmegin.
+**Skollaber** eru frekar sjaldgæf hér á landi og vaxa innan um lyng. Þau finnast á fáeinum stöðum við Hrútafjörð og á Skaga en eru nokkuð algeng á Tröllaskaga Skagafjarðarmegin. NNV sinnir útbreiðslurannsóknum á plöntum.
 
 ]
 ]
 
 ]]
 
+---
+layout: false
 
-
+# Lífríki og loftslagsbreytingar
+NNV er að auka á rannsóknir sem lúta að loftlagsbreytingum og áhirf þeirra á útbreiðslu og plantna. Viðbúið er að hánorrænar fuglategundir og fjallaplöntur muni breyta útbreiðslu sinni á komandi árum. Í  því sambandi má nefna sólskríkju/snjótittling og fjallaplönturnar jöklasóley og fjallavorblóm. Náttúrustofan hefur sinnt athugunum á sífrera í gróðurvinjum hálendisins. Sífrerinn er mikilvægur fyrir gróður og fuglalíf á miðhálendinu.
 
 ---
 
@@ -683,10 +692,9 @@ background-size: cover
 
 
 
-
 **Uppsetning og texti:**
 
-Valtýr Sigurðsson og Einar Ó. Þorleifsson
+Valtýr Sigurðsson og Einar Ó. Þorleifsson, árið 2022.
 
 **Myndir:** Náttúrustofa Norðurlands vestra
 
