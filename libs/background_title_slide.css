@@ -29,10 +29,15 @@ body {
 
 .footer-note-black {
     position: absolute;
-    bottom: 5px;
-    left: 10px;
-    width: 200px;
-    height: 25px;
+    bottom: 10%;
+    width: 80%;
+    background-color: black; 
+}
+
+.footer-note-black-R {
+    position: absolute;
+    top: 10%;
+    width: 80%;
     background-color: black; 
 }
 
