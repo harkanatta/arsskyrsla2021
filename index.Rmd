@@ -693,6 +693,7 @@ NNV hefur í sífelldri athugun áhrif loftslagsbreytinga á útbreiðslu dýra 
 .column[.nopadding[
 
  .img-fill[![](myndir/breyttar/joklasoley.JPEG)]
+ 
 .footer-note-black.white.scriptsize[Jöklasóley í 900 metra hæð yfir sjávarmáli.]
 
 ]
@@ -701,6 +702,7 @@ NNV hefur í sífelldri athugun áhrif loftslagsbreytinga á útbreiðslu dýra 
 .column[.nopadding[
 
  .img-fill[![](myndir/breyttar/fjallavorblom.JPEG)]
+ 
 .footer-note-black.white.scriptsize[Fjallavorblóm.]
 
 ]
